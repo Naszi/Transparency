@@ -15,7 +15,7 @@ class Surface extends JPanel {
 		g2d.setPaint(Color.blue);
 		
 		for (int i = 1; i <= 1; i++) {
-			float alpha
+			float alpha;
 		}
 	}
 }
